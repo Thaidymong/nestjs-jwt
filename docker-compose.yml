@@ -9,6 +9,6 @@ services:
       - 5432:5432
 
     environment:
-      - POSTGRES_DB=schoolDB
+      - POSTGRES_DB=nestjsJWT
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=Testing@123
+      - POSTGRES_PASSWORD=Dymong@100
